@@ -1,0 +1,21 @@
+{
+  "name": "airdcpp-autoblock-user-bot",
+  "version": "0.0.1",
+  "description": "Bot that blocks transfers from blacklisted users.",
+  "license": "MIT",
+  "private": true,
+  "author": "iamkroot",
+  "engines": {
+    "python3": ">=3.5.0"
+  },
+  "keywords": [
+    "airdcpp",
+    "airdcpp-extensions",
+    "python"
+  ],
+  "main": "extension.py",
+  "airdcpp": {
+    "apiVersion": 1,
+    "minApiFeatureLevel": 0
+  }
+}

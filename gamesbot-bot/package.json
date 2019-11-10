@@ -1,0 +1,21 @@
+{
+  "name": "airdcpp-gamesbot-bot",
+  "version": "0.0.1",
+  "description": "Bot that plays Numbers and Anagrams games.",
+  "license": "MIT",
+  "private": true,
+  "author": "iamkroot",
+  "engines": {
+    "python3": ">=3.5.0"
+  },
+  "keywords": [
+    "airdcpp",
+    "airdcpp-extensions",
+    "python"
+  ],
+  "main": "extension.py",
+  "airdcpp": {
+    "apiVersion": 1,
+    "minApiFeatureLevel": 0
+  }
+}

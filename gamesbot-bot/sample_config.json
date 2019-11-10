@@ -1,0 +1,11 @@
+{
+  "creds": {
+    "username": "username",
+    "password": "password"
+  },
+  "hub_urls": [
+    "172.112.123.123"
+  ],
+  "own_nick": "iamkroot"
+}
+ 
